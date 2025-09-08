@@ -1,1 +1,114 @@
-.vs/
+## Build results
+[Dd]ebug*/  
+[Rr]elease*/  
+x64/  
+x86/  
+[Aa][Rr][Mm]*/  
+bld/  
+[Bb]in/  
+[Oo]bj/  
+[Ll]og*/  
+artifacts/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## NuGet Packages
+*.nupkg  
+*.snupkg  
+packages.config  
+.nuget/
+
+## MSTest / NUnit / xUnit
+[Tt]est[Rr]esult*/  
+*.VisualState.xml  
+TestResult.xml  
+nunit-*.xml  
+*.trx  
+*.coverage  
+*.coveragexml  
+*.log
+
+## MSBuild logs
+*.binlog  
+[Bb]uild[Ll]og.*
+
+## User-specific files
+*.suo  
+*.user  
+*.userosscache  
+*.sln.docstates  
+*.userprefs
+
+## IDE folders
+.vs/  
+.idea/  
+*.sln.ide  
+*.vscode/
+
+## Others
+*.tmp  
+*.bak  
+*.swp  
+*.scc  
+*.pidb  
+*.svclog  
+*.psess  
+*.vsp  
+*.vspx  
+*.dbmdl  
+*.pdb  
+*.cache  
+*.log  
+*.orig  
+*.rej  
+*.sdf  
+*.opensdf  
+*.opendb  
+*.sbr  
+*.tlb  
+*.tli  
+*.tlh  
+*.ilk  
+*.meta  
+*.obj  
+*.pch  
+*.rsp  
+*.tmp_proj  
+*.gpState
+
+## Web-related
+.sass-cache/  
+wwwroot/ (optional—only if generated dynamically)
+
+## ReSharper / Rider
+_ReSharper*/  
+*.DotSettings.user  
+.idea/
+
+## DotCover / NCrunch / MightyMoose
+*.dotCover  
+_NCrunch_*  
+*.mm.*  
+AutoTest.Net/
+
+## Secrets (optional—use with caution)
+secrets.json  
+appsettings.Development.json (only if it contains sensitive data)
+
+## Node.js (if using frontend tooling)
+node_modules/  
+npm-debug.log  
+yarn-error.log  
+dist/
+
+## Docker
+*.dockerignore  
+Dockerfile  
+docker-compose*
+
+## Others
+*.DS_Store  
+Thumbs.db  
+ehthumbs.db  
+Desktop.ini
